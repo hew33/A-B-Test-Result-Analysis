@@ -8,4 +8,4 @@ The goal of this project is to perform A/B test and help the community decide if
 2. A/B Test
 3. Regression
 ## Summary
-There was no sufficient evidence found to suggest that the new page converts better than the old one. More variables need to be added in the model.
+There was no sufficient evidence found to suggest that the new page converts better than the old one. More information need to be provided for the model.
